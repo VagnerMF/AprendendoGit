@@ -1,2 +1,3 @@
 # AprendendoGit
-Aprendendo a usar GitHub
+Aprendendo a usar Git e GitHub
+Vagner Machado Fagundes
